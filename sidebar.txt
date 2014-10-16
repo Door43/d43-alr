@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alr:home|Door43 (alr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alr|d43-alr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alr/archive/master.zip|d43-alr.zip]]
+
+**Recent Changes**
+{{changes>ns = alr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alr|Ethnologue data]]
+
